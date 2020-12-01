@@ -1,3 +1,9 @@
+# Practice Project - Vue Calculator
+  With dark mode, tailwindcss
+
+# Live Demo
+https://unruffled-heisenberg-209a17.netlify.app/
+
 # calc
 
 ## Project setup
@@ -14,6 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
